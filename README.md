@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction
 
-<img src="https://github.com/Harshita9511/Heart-Disease-Prediction/blob/master/image.jpg" width="600" height="300" />
+<img src="https://github.com/Harshita9511/Heart-Disease-Prediction/blob/master/image.jpg" width="750" height="300" />
 
 A disease is an unnatural medical condition that negatively affects the functional state of an organism and is generally associated with certain signs of illness. As reported by World Health Organization (WHO), Heart Disease and Stroke are the world’s biggest killers and have remained the leading causes of death globally in the last 15 years.
 In the direction of predicting heart disease, Machine Learning can present remarkable features that simplify the identification of unseen patterns, eventually providing clinical insights that assist physicians in planning and providing care.
@@ -18,7 +18,8 @@ Scikit-learn supports most of the supervised and unsupervised learning algorithm
 **train_test_split**: It splits the dataset into a training set and a test set.<br />
 
 ## Dataset
-The Heart Disease dataset has been taken from Kaggle. This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. It has a total number of 303 rows and 14 columns among which 165 have a heart disease.
+The Heart Disease dataset has been taken from Kaggle. This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. It has a total number of 303 rows and 14 columns among which 165 have a heart disease.<br />
+Data Source: [Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)<br />
 *age*: age in years<br />
 *sex*: (1 = male; 0 = female)<br />
 *cp*: chest pain type<br />
