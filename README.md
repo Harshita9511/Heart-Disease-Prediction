@@ -19,7 +19,7 @@ Scikit-learn supports most of the supervised and unsupervised learning algorithm
 
 ## Dataset
 The Heart Disease dataset has been taken from Kaggle. This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. It has a total number of 303 rows and 14 columns among which 165 have a heart disease.<br />
-Data Source: [Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)<br />
+Data Source: [Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)<br /><br />
 *age*: age in years<br />
 *sex*: (1 = male; 0 = female)<br />
 *cp*: chest pain type<br />
