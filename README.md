@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction
 
-![](https://github.com/Harshita9511/Heart-Disease-Prediction/blob/master/image.jpg)
+![](https://github.com/Harshita9511/Heart-Disease-Prediction/blob/master/image.jpg=100x20)
 
 A disease is an unnatural medical condition that negatively affects the functional state of an organism and is generally associated with certain signs of illness. As reported by World Health Organization (WHO), Heart Disease and Stroke are the world’s biggest killers and have remained the leading causes of death globally in the last 15 years.
 In the direction of predicting heart disease, Machine Learning can present remarkable features that simplify the identification of unseen patterns, eventually providing clinical insights that assist physicians in planning and providing care.
@@ -19,17 +19,17 @@ Scikit-learn supports most of the supervised and unsupervised learning algorithm
 
 ## Dataset
 The Heart Disease dataset has been taken from Kaggle. This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. It has a total number of 303 rows and 14 columns among which 165 have a heart disease.
-*age*: age in years
-*sex*: (1 = male; 0 = female)
-*cp*: chest pain type
-*trestbps*: resting blood pressure (in mm Hg on admission to the hospital)
-*chol*: serum cholestoral in mg/dl
-*fbs*: (fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)
-*restecg*: resting electrocardiographic results
-*thalach*: maximum heart rate achieved
-*exang*: exercise induced angina (1 = yes; 0 = no)
-*oldpeak*: ST depression induced by exercise relative to rest
-*slope*: the slope of the peak exercise ST segment
-*ca*: number of major vessels (0-3) colored by flourosopy
-*thal*: thalassemia (1 = normal; 2 = fixed defect; 3 = reversable defect)
+*age*: age in years<br />
+*sex*: (1 = male; 0 = female)<br />
+*cp*: chest pain type<br />
+*trestbps*: resting blood pressure (in mm Hg on admission to the hospital)<br />
+*chol*: serum cholestoral in mg/dl<br />
+*fbs*: (fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)<br />
+*restecg*: resting electrocardiographic results<br />
+*thalach*: maximum heart rate achieved<br />
+*exang*: exercise induced angina (1 = yes; 0 = no)<br />
+*oldpeak*: ST depression induced by exercise relative to rest<br />
+*slope*: the slope of the peak exercise ST segment<br />
+*ca*: number of major vessels (0-3) colored by flourosopy<br />
+*thal*: thalassemia (1 = normal; 2 = fixed defect; 3 = reversable defect)<br />
 *target*: (1= heart disease or 0= no heart disease)
